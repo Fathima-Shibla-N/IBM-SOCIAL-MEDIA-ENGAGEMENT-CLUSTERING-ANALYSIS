@@ -132,16 +132,7 @@ The project was tested across these areas:
 - Support for reviews from multiple platforms and social media
 - Real-time sentiment tracking
 
-## Team
 
-**Team Nexus**
-
-- Muhammed Safvan C. K
-- Zayid Rafiq
-- Fathimathul Hiba Abdul Jabbar
-- Safa Abdulla M
-- Hanan Rafeeque P K
-- Riya Fathima
 
 **Guided by:** Sumit Kumar Shukla
 
